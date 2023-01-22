@@ -34,4 +34,6 @@ Contains mocked reviews with the following properties:
 - reviewer_id
 - restaurant_id
 
-## How to Import in MongoDB
+## How to Load Sample Data into MongoDB Atlas
+
+By utilizing the `mongoimport` tool through the command line interface, the sample data is added to MongoDB Atlas. More information on installation and use can be found [here](https://www.mongodb.com/docs/database-tools/mongoimport/#mongodb-binary-bin.mongoimport)
