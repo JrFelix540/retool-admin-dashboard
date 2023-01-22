@@ -1,0 +1,182 @@
+[
+  {
+    "street": "Stillwell Avenue",
+    "cuisine": "American",
+    "name": "Riviera Caterer",
+    "restaurant_id": "40356018",
+    "email_address": "pr@rivieracaterer.com",
+    "verified": false,
+    "stars": null
+  },
+  {
+    "street": "Avenue U",
+    "cuisine": "Delicatessen",
+    "name": "Wilken'S Fine Food",
+    "restaurant_id": "40356483",
+    "email_address": "pr@wilkensfinefood.com",
+    "verified": true,
+    "stars": 1
+  },
+  {
+    "street": "Victory Boulevard",
+    "cuisine": "Jewish/Kosher",
+    "name": "Kosher Island",
+    "restaurant_id": "40356442",
+    "email_address": "pr@kosherisland.com",
+    "verified": true,
+    "stars": 1
+  },
+  {
+    "street": "Flatbush Avenue",
+    "cuisine": "Hamburgers",
+    "name": "Wendy'S",
+    "restaurant_id": "30112340",
+    "email_address": "pr@wendys.com",
+    "verified": true,
+    "stars": 3
+  },
+  {
+    "street": "Morris Park Ave",
+    "cuisine": "Bakery",
+    "name": "Morris Park Bake Shop",
+    "restaurant_id": "30075445",
+    "email_address": "pr@morrisparkbakeshop.com",
+    "verified": false,
+    "stars": null
+  },
+  {
+    "street": "63 Road",
+    "cuisine": "Jewish/Kosher",
+    "name": "Tov Kosher Kitchen",
+    "restaurant_id": "40356068",
+    "email_address": "dining@tovkosher.com",
+    "verified": true,
+    "stars": 1
+  },
+  {
+    "street": "Astoria Boulevard",
+    "cuisine": "American",
+    "name": "Brunos On The Boulevard",
+    "restaurant_id": "40356151",
+    "email_address": "dining@brunosontheboulevard.com",
+    "verified": true,
+    "stars": 3
+  },
+  {
+    "street": "11 Avenue",
+    "cuisine": "American",
+    "name": "Regina Caterers",
+    "restaurant_id": "40356649",
+    "email_address": "pr@reginacaterers.com",
+    "verified": true,
+    "stars": 1
+  },
+  {
+    "street": "Nostrand Avenue",
+    "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+    "name": "Taste The Tropics Ice Cream",
+    "restaurant_id": "40356731",
+    "email_address": "support@tastethetropics.com",
+    "verified": false,
+    "stars": null
+  },
+  {
+    "street": "Southern Boulevard",
+    "cuisine": "American",
+    "name": "Wild Asia",
+    "restaurant_id": "40357217",
+    "email_address": "pr@wildasiaeats.com",
+    "verified": false,
+    "stars": null
+  },
+  {
+    "street": "18 Avenue",
+    "cuisine": "American",
+    "name": "C & C Catering Service",
+    "restaurant_id": "40357437",
+    "email_address": "pr@candccatering.com",
+    "verified": true,
+    "stars": null
+  },
+  {
+    "street": "Kings Highway",
+    "cuisine": "Jewish/Kosher",
+    "name": "Seuda Foods",
+    "restaurant_id": "40360045",
+    "email_address": "dining@seudafoods.com",
+    "verified": true,
+    "stars": null
+  },
+  {
+    "street": "Sutter Avenue",
+    "cuisine": "Chinese",
+    "name": "May May Kitchen",
+    "restaurant_id": "40358429",
+    "email_address": "dining@maykitchen.com",
+    "verified": false,
+    "stars": null
+  },
+  {
+    "street": "East   66 Street",
+    "cuisine": "American",
+    "name": "1 East 66Th Street Kitchen",
+    "restaurant_id": "40359480",
+    "email_address": "pr@66thstreetkitchen.com",
+    "verified": true,
+    "stars": 1
+  },
+  {
+    "street": "Hillside Avenue",
+    "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+    "name": "Carvel Ice Cream",
+    "restaurant_id": "40361322",
+    "email_address": "pr@carvelice.com",
+    "verified": false,
+    "stars": null
+  },
+  {
+    "street": "West   57 Street",
+    "cuisine": "Irish",
+    "name": "Dj Reynolds Pub And Restaurant",
+    "restaurant_id": "30191841",
+    "email_address": "dining@djreynoldspub.com",
+    "verified": false,
+    "stars": null
+  },
+  {
+    "street": "Church Avenue",
+    "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+    "name": "Carvel Ice Cream",
+    "restaurant_id": "40360076",
+    "email_address": "pr@carvelicechurchave.com",
+    "verified": false,
+    "stars": null
+  },
+  {
+    "street": "3 Avenue",
+    "cuisine": "Delicatessen",
+    "name": "Nordic Delicacies",
+    "restaurant_id": "40361390",
+    "email_address": "support@nordicdelicacies.com",
+    "verified": true,
+    "stars": 3
+  },
+  {
+    "street": "Prospect Park West",
+    "cuisine": "American",
+    "name": "The Movable Feast",
+    "restaurant_id": "40361606",
+    "email_address": "dining@themovablefeast.com",
+    "verified": true,
+    "stars": 1
+  },
+  {
+    "street": "Broadway",
+    "cuisine": "Delicatessen",
+    "name": "Bully'S Deli",
+    "restaurant_id": "40361708",
+    "email_address": "pr@bullysdeli.com",
+    "verified": true,
+    "stars": null
+  }
+]
